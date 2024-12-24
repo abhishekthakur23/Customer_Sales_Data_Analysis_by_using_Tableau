@@ -11,3 +11,5 @@ The Quantity Discount Correlation scatterplot provides insights into customer pr
 Geographically, the State-Wise Revenue heatmap identifies high-performing regions such as Texas ($15.5M) and California ($9.1M), while the Revenue by Region bubble chart highlights the dominance of the South ($89.6M) and Midwest ($62.9M).
 
 As a descriptive analysis, this dashboard effectively summarizes past sales performance, offering actionable insights into customer preferences, product trends, and regional dynamics, forming the basis for informed decision-making and strategic planning
+
+Dashboard Link: https://public.tableau.com/app/profile/abhishek.thakur7211/viz/CustomerAnalysisDashboard_17350344002310/Dashboard1#1
