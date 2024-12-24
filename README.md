@@ -1,3 +1,4 @@
+![Dashboard_CS_Tableau](https://github.com/user-attachments/assets/d2ae326d-11b7-4840-af28-c10a85e7cc00)
 This Customer Sales Analysis Dashboard is a descriptive analysis providing a detailed, data-driven overview of sales performance across various dimensions, including revenue trends, customer demographics, product categories, and geographic distribution. 
 
 At the core, the total revenue of $233.7M highlights the business's financial scale. The Monthly Revenue line chart reveals trends, with a significant peak of $57.7M in December 2020, likely due to holiday sales, followed by seasonal variations. This historical trend offers valuable insights into revenue seasonality and cyclical patterns.
