@@ -13,4 +13,4 @@ Geographically, the State-Wise Revenue heatmap identifies high-performing region
 
 As a descriptive analysis, this dashboard effectively summarizes past sales performance, offering actionable insights into customer preferences, product trends, and regional dynamics, forming the basis for informed decision-making and strategic planning
 
-Dashboard Link: https://public.tableau.com/app/profile/abhishek.thakur7211/viz/CustomerAnalysisDashboard_17350344002310/Dashboard1#1
+Live Dashboard Link: https://public.tableau.com/app/profile/abhishek.thakur7211/viz/CustomerAnalysisDashboard_17350344002310/Dashboard1#1
